@@ -151,7 +151,7 @@
 #### Q22. You want to be able to restrict values allowed in a cell and need to create a drop-down list of values from which users can choose. Which feature should you use?
 
 - [ ] Protect Worksheet
-- [ ] Conditional Formatting
+- [x] Conditional Formatting
 - [ ] Allow Users to Edit Ranges
 - [ ] Data Validation
 
@@ -243,7 +243,7 @@
 - [ ] Cell style
 - [ ] Fill color
 - [ ] Pattern style
-- [ ] Font color
+- [x] Font color
 
 #### Q36. In Excel, what do most formulas begin with?
 - [ ] :
@@ -268,13 +268,13 @@
 - [ ] =A1*B3
 
 #### Q39. If you start a date series by dragging down the fill handle of a single cell that contains the date 12/1/19, what will you get?
-- [ ] a series of consecutive days following the initial date
+- [x] a series of consecutive days following the initial date
 - [ ] a series of days exactly one month apart
 - [ ] a series of days identical to the initial date
 - [ ] a series of days exactly one year apart
 
 #### Q40. To discover how many cells in a range contain values that meet a single criterion, use the ___function.
-- [ ] COUNT
+- [x] COUNT
 - [ ] SUMIFS
 - [ ] COUNTA
 - [ ] COUNTIE
